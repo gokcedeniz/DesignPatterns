@@ -1,0 +1,7 @@
+C:\Users\Gokce\Documents\code\design_patterns\design_pattern_2\bin\Debug\design_pattern_2.exe.config
+C:\Users\Gokce\Documents\code\design_patterns\design_pattern_2\bin\Debug\design_pattern_2.exe
+C:\Users\Gokce\Documents\code\design_patterns\design_pattern_2\bin\Debug\design_pattern_2.pdb
+C:\Users\Gokce\Documents\code\design_patterns\design_pattern_2\obj\Debug\design_pattern_2.csproj.AssemblyReference.cache
+C:\Users\Gokce\Documents\code\design_patterns\design_pattern_2\obj\Debug\design_pattern_2.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Documents\code\design_patterns\design_pattern_2\obj\Debug\design_pattern_2.exe
+C:\Users\Gokce\Documents\code\design_patterns\design_pattern_2\obj\Debug\design_pattern_2.pdb
