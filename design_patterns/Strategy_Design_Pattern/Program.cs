@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Behavioural design patterns: Strategy
+//Bir işlemi farklı yollarla yapabilmek ve bu yollar arasında geçiş yapabilmek için tasarlanmış bir pattern.
+//Bir işlem için genel bi interface yazarız. Sonra bu interface'i uygulayan farklı sınıflar yoluyla işlemi yapmanın farklı yollarını tanımlamış oluruz.
+
 public interface IOdemeYontemi
 {
     void Odeme(float ucret);
