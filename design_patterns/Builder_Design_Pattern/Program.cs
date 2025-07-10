@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Creational Patterns: Builder Pattern
+//Karmaşık bir nesne oluştururken bunu parça parça oluşturmamızı sağlar. Sonucunda alacağım nesne tipi aynı ama içeriği farklı olabilir her kullanımda.
+
 public class Pizza
 {
     public bool HasCheese { get; set; }
