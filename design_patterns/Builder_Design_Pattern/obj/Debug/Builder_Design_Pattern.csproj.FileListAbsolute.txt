@@ -1,0 +1,7 @@
+C:\Users\Gokce\Documents\code\design_patterns\Builder_Design_Pattern\bin\Debug\Builder_Design_Pattern.exe.config
+C:\Users\Gokce\Documents\code\design_patterns\Builder_Design_Pattern\bin\Debug\Builder_Design_Pattern.exe
+C:\Users\Gokce\Documents\code\design_patterns\Builder_Design_Pattern\bin\Debug\Builder_Design_Pattern.pdb
+C:\Users\Gokce\Documents\code\design_patterns\Builder_Design_Pattern\obj\Debug\Builder_Design_Pattern.csproj.AssemblyReference.cache
+C:\Users\Gokce\Documents\code\design_patterns\Builder_Design_Pattern\obj\Debug\Builder_Design_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\Gokce\Documents\code\design_patterns\Builder_Design_Pattern\obj\Debug\Builder_Design_Pattern.exe
+C:\Users\Gokce\Documents\code\design_patterns\Builder_Design_Pattern\obj\Debug\Builder_Design_Pattern.pdb
